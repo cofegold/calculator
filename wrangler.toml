@@ -1,8 +1,5 @@
 name = "calculator"
-main = "worker/index.js"
-compatibility_date = "2026-09-18"
 
-[[d1_databases]]
-binding = "DB"
-database_name = "calculator-logs"
-database_id = "47f7b9d1-6a6f-4687-9917-7af73d7b9435"
+main = "worker/index.js"
+
+compatibility_date = "2026-09-18"
