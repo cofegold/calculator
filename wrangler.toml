@@ -5,4 +5,4 @@ compatibility_date = "2026-09-18"
 [[d1_databases]]
 binding = "DB"
 database_name = "calculator-logs"
-database_id = "00000000-00000006-000050ea-6e60a80b846ba7c7a9e7456fd139a3dd"
+database_id = "47f7b9d1-6a6f-4687-9917-7af73d7b9435"
