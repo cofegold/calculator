@@ -1,4 +1,4 @@
-name = "calculator-monitor-api"
+name = "calculator"
 main = "worker/index.js"
 compatibility_date = "2026-09-18"
 
